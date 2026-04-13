@@ -2,7 +2,14 @@
 
 本 Skill 基于开源项目 [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 构建，将其核心的菜谱速查能力无缝集成到大模型 Agent 平台中。
 
-## 调用说明与引用内容
+## 获取与开源地址
+
+本技能已经打包上传到 **Clawhub** 技能集市供大家使用。
+
+如果你想获取它的原始底层代码、查看执行逻辑脚本、或者是接收后续的升级更新，请访问我的 GitHub 专属技能管理仓库：  
+👉 **[https://github.com/xiaoxiangxie/xiangzi-skills](https://github.com/xiaoxiangxie/xiangzi-skills)**
+
+## 调用的开源项目与内容
 
 - **调用的源仓库**：[Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) (主要收录《老乡鸡菜品溯源报告》中的菜谱 Markdown)。
 - **引用的内容**：动态拉取该仓库中存放在 `主食`、`炒菜`、`汤`、`炸品` 等十余个目录下的 `.md` 菜谱文件（涵盖配料和步骤说明）。
