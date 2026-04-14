@@ -18,3 +18,5 @@
 
 - `skills/cook-like-hoc/` : [像老乡鸡那样做饭 (CookLikeHOC) 技能接入](./skills/cook-like-hoc/README.md) - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 的高度动态解偶接入层。具备 CDN 加速及动态容错机制。
 - `skills/vibe-dev/` : [文档驱动的 AI 编程方法论 (Vibe Dev)](./skills/vibe-dev/README.md) - 基于"从执行者到决策者"方法论的 AI 编程开发流程。方案先行、小步迭代、文档即记忆、人机协作、人类掌舵。
+
+> 📦 所有 Skill 均已同步发布至 [ClawHub](https://clawhub.com)，可通过 `clawhub install <skill-name>` 一键安装。
